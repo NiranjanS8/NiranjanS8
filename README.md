@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm **Niranjan**
 
-🎓 **Engineering Student | 🔧 Aspiring Java Backend Engineer**
+🎓 **Engineering Student | Aspiring Software Engineer**
 
 I'm currently learning and building projects that focus on creating scalable backend systems and robust server-side applications. Most of my work revolves around:  
 - **Java & Backend Development**  
