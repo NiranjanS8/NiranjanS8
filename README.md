@@ -1,19 +1,53 @@
-# 💫 About Me:
-👋 Hi, I'm **Niranjan**
+# 👋 Hi, I'm Niranjan
 
-🎓 **Engineering Student | Aspiring Software Engineer**
+Backend Developer
 
-I'm currently learning and building projects that focus on creating scalable backend systems and robust server-side applications. Most of my work revolves around:  
-- **Java & Backend Development**  
-- **REST APIs & Microservices**  
-- **Database Design and Server-Side Logic**
+I’m passionate about building **scalable backend systems** and **high-performance server-side applications**.  
+Currently focused on mastering backend architecture, clean code practices, and real-world system design.
 
-💡 **What I Use**  
-**Languages:** Java, Python  
-**Frameworks/Tools:** Spring, Spring Boot, SQL, PostgreSQL
+---
 
-📫 **Contact**  
-- [LinkedIn](https://linkedin.com/in/niranjans8)  
-- **Email:** niranjansankeshwari9@gmail.com  
+## 🚀 What I Do
 
-🔍 **Open to internship and job opportunities** | Eager to build, learn, and grow in dynamic engineering environments.
+- ⚙️ Build RESTful APIs & Microservices using Spring Boot  
+- 🧠 Design efficient backend architectures  
+- 🗄️ Work with relational databases and optimize queries  
+- 🔧 Solve real-world problems through backend systems  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+`Java` `Python`
+
+**Backend & Frameworks**  
+`Spring Boot` `Spring` `Hibernate`  
+
+**Database**  
+`PostgreSQL` `MySQL`
+
+**Tools & Concepts**  
+`REST APIs` `Microservices` `JPA` `System Design (Basics)`
+
+---
+
+## 📌 Current Focus
+
+- Improving **Microservices Architecture skills**
+- Learning **System Design fundamentals**
+- Building **production-level backend projects**
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 LinkedIn: [Your LinkedIn Link]
+- 📧 Email: niranjansankeshwari9@gmail.com
+
+---
+
+## 🌱 Open To Opportunities
+
+💼 Actively looking for **Internships / Entry-Level Backend Roles**  
+I’m eager to contribute, learn fast, and grow in a challenging environment.
