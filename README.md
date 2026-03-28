@@ -42,7 +42,7 @@ Currently focused on mastering backend architecture, clean code practices, and r
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: [Your LinkedIn Link]
+- 🔗 LinkedIn: [linkedin.com/in/niranjans8](https://www.linkedin.com/in/niranjans8)
 - 📧 Email: niranjansankeshwari9@gmail.com
 
 ---
