@@ -5,7 +5,6 @@ Backend Developer
 I’m passionate about building **scalable backend systems** and **high-performance server-side applications**.  
 Currently focused on mastering backend architecture, clean code practices, and real-world system design.
 
----
 
 ## 🚀 What I Do
 
@@ -43,7 +42,7 @@ Currently focused on mastering backend architecture, clean code practices, and r
 ## 📫 Connect With Me
 
 - 🔗 LinkedIn: [linkedin.com/in/niranjans8](https://www.linkedin.com/in/niranjans8)
-- 📧 Email: niranjansankeshwari9@gmail.com
+- 📧 Email: [niranjansankeshwari9@gmail.com](niranjansankeshwari9@gmail.com)
 
 ---
 
