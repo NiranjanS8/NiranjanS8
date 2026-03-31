@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Niranjan
 
-Backend Developer
+Java Developer
 
 I’m passionate about building **scalable backend systems** and **high-performance server-side applications**.  
 Currently focused on mastering backend architecture, clean code practices, and real-world system design.
@@ -13,7 +13,6 @@ Currently focused on mastering backend architecture, clean code practices, and r
 - 🗄️ Work with relational databases and optimize queries  
 - 🔧 Solve real-world problems through backend systems  
 
----
 
 ## 🛠 Tech Stack
 
@@ -29,7 +28,6 @@ Currently focused on mastering backend architecture, clean code practices, and r
 **Tools & Concepts**  
 `REST APIs` `Microservices` `JPA` `System Design (Basics)`
 
----
 
 ## 📌 Current Focus
 
@@ -37,14 +35,12 @@ Currently focused on mastering backend architecture, clean code practices, and r
 - Learning **System Design fundamentals**
 - Building **production-level backend projects**
 
----
 
 ## 📫 Connect With Me
 
 - 🔗 LinkedIn: [linkedin.com/in/niranjans8](https://www.linkedin.com/in/niranjans8)
 - 📧 Email: [niranjansankeshwari9@gmail.com](niranjansankeshwari9@gmail.com)
 
----
 
 ## 🌱 Open To Opportunities
 
