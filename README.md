@@ -1,53 +1,74 @@
 # 👋 Hi, I'm Niranjan
 
-Java Developer
+Backend & AI Developer
 
-I’m passionate about building **scalable backend systems** and **high-performance server-side applications**.  
-Currently focused on mastering backend architecture, clean code practices, and real-world system design.
+I’m passionate about building **backend systems**, **AI-powered applications**, and **high-performance server-side architectures**.  
+Currently focused on mastering backend engineering, GenAI systems, agentic workflows, and production-grade application design.
 
 
 
 ## 🚀 What I Do
 
 - ⚙️ Build RESTful APIs & Microservices using Spring Boot  
-- 🧠 Design efficient backend architectures  
-- 🗄️ Work with relational databases and optimize queries  
-- 🔧 Solve real-world problems through backend systems  
+- 🤖 Develop AI-powered applications using LLMs & RAG pipelines  
+- 🧠 Design scalable backend architectures and system workflows  
+- 🗄️ Work with relational databases and optimize performance  
+- 🔍 Build intelligent systems using vector search and semantic retrieval  
+- 🔧 Solve real-world problems through backend + AI integration  
 
 
 
 ## 🛠 Tech Stack
 
-**Languages**  
-`Java` `Python`
+### **Languages**
+`Java` `Python` `JavaScript`
 
-**Backend & Frameworks**  
-`Spring Boot` `Spring` `Hibernate`  
+### **Backend & Frameworks**
+`Spring Boot` `Spring` `Hibernate` `FastAPI`
 
-**Database**  
-`PostgreSQL` `MySQL`
+### **AI / GenAI**
+`LangChain` `RAG` `Vector Databases` `LLMs` `APIs`
 
-**Tools & Concepts**  
-`REST APIs` `Microservices` `JPA` `System Design (Basics)`
+### **Database**
+`PostgreSQL` `MySQL` `SQLite` `Redis`
+
+### **Tools & Concepts**
+`REST APIs` `Microservices` `JPA` `System Design`  
+`Docker` `JWT Authentication` `Kafka` `RabbitMQ`  
+`Prompt Engineering` `AI Agents`
+
+
+
+## 🚀 Featured Interests
+
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🤖 AI Assistants & Agentic AI Systems
+- ⚡ Production-grade Backend Engineering
+- 📊 Scalable Microservices Architecture
+- 🔍 Semantic Search & AI-powered Retrieval
+- ☁️ Deploying AI + Backend Applications
 
 
 
 ## 📌 Current Focus
 
-- Improving **Microservices Architecture skills**
-- Learning **System Design fundamentals**
-- Building **production-level backend projects**
-
+- Building **production-level AI + Backend projects**
+- Improving **Microservices & System Design skills**
+- Learning **Agentic AI architectures**
+- Exploring **LLM orchestration frameworks**
+- Developing scalable **RAG applications**
 
 
 ## 📫 Connect With Me
 
 - 🔗 LinkedIn: [linkedin.com/in/niranjans8](https://www.linkedin.com/in/niranjans8)
-- 📧 Email: [niranjansankeshwari9@gmail.com](niranjansankeshwari9@gmail.com)
+- 📧 Email: niranjansankeshwari9@gmail.com
+- 💻 GitHub: [github.com/NiranjanS8](https://github.com/NiranjanS8)
 
 
 
 ## 🌱 Open To Opportunities
 
-💼 Actively looking for **Internships / Entry-Level Backend Roles**  
-I’m eager to contribute, learn fast, and grow in a challenging environment.
+💼 Actively looking for **Backend Developer**, **AI Engineer**, and **Applied AI Internship / Entry-Level Roles**
+
+I’m eager to contribute, learn fast, and build impactful real-world systems combining **Backend Engineering + AI**.
