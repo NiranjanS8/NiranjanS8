@@ -9,7 +9,7 @@ Currently focused on mastering backend engineering, GenAI systems, agentic workf
 
 ## 🚀 What I Do
 
-- ⚙️ Build RESTful APIs & Microservices using Spring Boot  
+- ⚙️ Build RESTful APIs & backend using Spring Boot  
 - 🤖 Develop AI-powered applications using LLMs & RAG pipelines  
 - 🧠 Design scalable backend architectures and system workflows  
 - 🗄️ Work with relational databases and optimize performance  
